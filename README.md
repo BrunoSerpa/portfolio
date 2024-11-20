@@ -11,6 +11,10 @@
 
 ## Sobre Mim <span id='sobremim'></span>
 
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/38f9389d-bdd5-42d7-b7df-dadbcc377d4f" alt="Minha-Foto" width="250" height="auto">
+</div>
+
 Sou Técnico em Desenvolvimento de Sistemas pela Escola Técnica Estadual Professora Ilza Nascimento Pintus e atualmente estou cursando o Tecnólogo em Desenvolvimento de Software Multiplataforma. Minha formação acadêmica e experiência prática construíram uma base sólida em tecnologias e metodologias modernas, com foco na criação de projetos funcionais e de alto desempenho.
 
 Tenho experiência em uma ampla variedade de ferramentas e linguagens de programação, como Git, GitHub, Python, TypeScript, JavaScript, e frameworks como React, React Native e Express. Além disso, possuo conhecimento em bancos de dados relacionais e não relacionais, como PostgreSQL, MySQL, SQL Server, Cassandra, MongoDB e Redis, permitindo-me desenvolver sistemas robustos e adaptáveis a diferentes demandas.
