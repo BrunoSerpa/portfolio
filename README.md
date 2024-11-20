@@ -173,7 +173,7 @@ O CICLOVALE (Central Informativa de COVID Longa do Vale do Paraíba) é uma plat
 - [CSS](https://www.w3.org/Style/CSS/#specs): Estilização e design responsivo do site.
 - [SQL](https://www.w3schools.com/sql/): Criação e manutenção do banco de dados, incluindo armazenamento do ranking dos filtros mais pesquisados.
 
-#### Contribuições pessoais (Srum Master)
+#### Contribuições pessoais (Scrum Master)
 
 Como Scrum Master, facilitei as cerimônias ágeis, promovendo uma comunicação clara e ágil dentro da equipe, além de remover impedimentos que poderiam atrasar o progresso do projeto. Atuei como ponte entre os integrantes, auxiliando na colaboração técnica e organizacional, e mantive a documentação atualizada para garantir clareza e alinhamento de todos. Também desempenhei um papel essencial no desenvolvimento do front-end, criando interfaces modernas e responsivas com foco na experiência do usuário.
 
