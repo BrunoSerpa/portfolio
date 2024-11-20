@@ -46,7 +46,7 @@ O projeto Tecsus tem como objetivo desenvolver um sistema de monitoramento ambie
 - [GitHub](https://github.com/): Repositório de código e documentação.
 - [Neon Tech](https://console.neon.tech): Plataforma de banco de dados PostgreSQL online.
 - [PostgreSQL](https://www.postgresql.org/): Banco de dados relacional.
-- [React](https://pt-br.reactjs.org/) Framework para desenvolvimento de interfaces no front-end.
+- [React](https://pt-br.reactjs.org/): Framework para desenvolvimento de interfaces no front-end.
 - [TypeScript](https://www.w3schools.com/js/default.asp): Linguagem de programação para front-end e back-end.
 
 #### Contribuições pessoais (Dev Team)
@@ -140,7 +140,7 @@ Como membro da equipe de desenvolvimento, fui responsável por implementar funci
 ##### Soft Skills
 
 - **Trabalho em Equipe**: Colaborei de forma ativa e harmônica com a equipe, promovendo uma comunicação clara e eficaz que resultou em entregas consistentes e dentro do prazo.
-- **Criatividade**:Desenvolvi soluções inovadoras para desafios técnicos, otimizando a usabilidade e as funcionalidades do sistema.
+- **Criatividade**: Desenvolvi soluções inovadoras para desafios técnicos, otimizando a usabilidade e as funcionalidades do sistema.
 - **Pensamento Analítico e Inovação**: Aprofundei minha habilidade de identificar problemas complexos e propor melhorias baseadas em feedbacks e análises de dados.
 - **Agilidade**: Aprendi a adaptar-me rapidamente a mudanças nos requisitos, priorizando tarefas de maneira eficiente para manter a qualidade e a agilidade no desenvolvimento.
 
@@ -167,7 +167,7 @@ O CICLOVALE (Central Informativa de COVID Longa do Vale do Paraíba) é uma plat
 - [Figma](http://www.figma.com): Design e prototipagem das interfaces.
 - [GitHub](https://github.com/): Controle de versão e documentação do projeto.
 - [Jira](https://www.atlassian.com/software/jira): Organização e gerenciamento de tarefas.
-- [Python](https://www.python.org) Back-end, incluindo leitura de arquivos CSV, geração de gráficos e conexão com o banco de dados.
+- [Python](https://www.python.org): Back-end, incluindo leitura de arquivos CSV, geração de gráficos e conexão com o banco de dados.
 - [Flask](https://flask.palletsprojects.com): Framework utilizado como servidor web.
 - [HTML](https://html.spec.whatwg.org): Estruturação das páginas da aplicação.
 - [CSS](https://www.w3.org/Style/CSS/#specs): Estilização e design responsivo do site.
